@@ -1,4 +1,4 @@
-var timer = 80;
+var timer = 20;
 var score = 0;
 var rnHit = 0;
 
